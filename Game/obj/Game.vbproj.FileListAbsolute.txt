@@ -1,0 +1,21 @@
+C:\Projects\Game\Game\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Game\Game\obj\Debug\Game.Form1.resources
+C:\Projects\Game\Game\obj\Debug\Game.Resources.resources
+C:\Projects\Game\Game\obj\Debug\Game.vbproj.GenerateResource.Cache
+C:\Projects\Game\Game\bin\Debug\Game.exe
+C:\Projects\Game\Game\bin\Debug\Game.pdb
+C:\Projects\Game\Game\bin\Debug\Game.xml
+C:\Projects\Game\Game\obj\Debug\Game.exe
+C:\Projects\Game\Game\obj\Debug\Game.xml
+C:\Projects\Game\Game\obj\Debug\Game.pdb
+C:\Projects\Sample Game\Game\obj\Debug\Game.exe
+C:\Projects\Sample Game\Game\obj\Debug\Game.xml
+C:\Projects\Sample Game\Game\obj\Debug\Game.pdb
+C:\Projects\Sample Game\Game\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Sample Game\Game\obj\Debug\Game.Form1.resources
+C:\Projects\Sample Game\Game\obj\Debug\Game.Resources.resources
+C:\Projects\Sample Game\Game\obj\Debug\Game.vbproj.GenerateResource.Cache
+C:\Projects\Sample Game\Game\bin\Debug\Game.exe
+C:\Projects\Sample Game\Game\bin\Debug\Game.pdb
+C:\Projects\Sample Game\Game\bin\Debug\Game.xml
+C:\Projects\Sample Game\Game\obj\Debug\Game.Menu.resources
